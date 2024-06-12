@@ -1,2 +1,1 @@
-# Python
-Python EDA Projects
+## EDA & Data visualization Projects using Python 📊
